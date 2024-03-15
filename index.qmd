@@ -1,0 +1,10 @@
+---
+title: "yourmo.github.io"
+---
+
+This is my dataset
+
+```{r}
+library("tidyverse")
+goatdebate <- read_csv("goat.csv")
+```
